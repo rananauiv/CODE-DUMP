@@ -1,1 +1,3 @@
 jar cf "C:\Users\unnik\Downloads\PakPacmanMiddleEarth.jar" -C "C:\Users\unnik\Downloads\PakPacmanMiddleEarth-Forge-1.7.10-project\PakPacmanMiddleEarth-Forge-1.7.10" .
+
+rem this code is to be run in cmd and do not use code from line 2 onwards, also . may be typo
