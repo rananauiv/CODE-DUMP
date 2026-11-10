@@ -1,0 +1,30 @@
+Make the following map (medieval )
+
+top down, editable
+
+Albion:-
+
+Sherwood village
+Camelot city
+
+
+Pictland:-
+
+lochlan village
+Edinburgh town
+
+Gaetland:-
+
+hygelac town
+jorvik village
+
+Ivernia:-
+
+Duabhh lainn town 
+Sherwood village
+
+
+kits used :
+
+tiny toony rts kit
+moore's rpg template 
