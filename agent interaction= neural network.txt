@@ -1,0 +1,26 @@
+I. Problem Definition
+Objective Identification: Clearly articulate the specific challenge or business goal the AI model is intended to solve. A well-defined objective acts as the north star for the entire project lifecycle.
+Requirement Analysis: Evaluate the necessary resources, including what specific types of data are required to train a model capable of addressing the defined problem effectively.
+II. Data Preparation
+Data Collection: Procure raw information from diverse and relevant datasets. This involves gathering enough high-quality data to represent the problem space accurately.
+Data Cleaning: Systematically remove noise, errors, duplicate entries, and inconsistencies. This step is critical to prevent "garbage in, garbage out" scenarios where poor data quality degrades model performance.
+Formatting: Transform and structure the cleaned raw data into a standardized format that the model architecture can process, ensuring compatibility between the data and the mathematical model.
+III. Model Development
+Algorithm Selection: Choose the appropriate mathematical framework or network architecture (such as neural networks) that best aligns with the project objective and data type.
+Model Training: Feed the prepared datasets into the selected algorithm. During this phase, the model iterates through the data to learn hidden patterns, correlations, and relationships.
+Hyperparameter Tuning: Fine-tune the internal settings and configurations of the algorithm. This optimization process maximizes the model's predictive accuracy and operational efficiency.
+IV. Evaluation and Testing
+Performance Metrics: Utilize dedicated test datasets that the model has not seen before to objectively measure how well it generalizes to new, real-world information.
+Validation: Rigorously examine the model output for hidden biases, logical errors, or ethical shortcomings to ensure that the AI remains reliable, fair, and safe for its intended use.
+V. Deployment and Monitoring
+Model Integration: Move the validated model into a live, production environment where it can be integrated into actual business applications or user-facing services.
+Continuous Monitoring: Observe the model's performance in real-time. This is essential to detect "data drift," where the model's accuracy degrades because the real-world environment has changed over time.
+Iterative Updates: Plan for the lifecycle of the model by retraining it periodically as new data becomes available or as business requirements shift, ensuring long-term relevance.
+Additional Resources
+Generative AI Certificate: Earn a certificate at https://ibm.biz/BdKUNX
+Watsonx Information: Learn more about watsonx at https://ibm.biz/BdvDnr
+AI Updates: Sign up for a monthly newsletter from IBM at https://ibm.biz/BdKUNr
+
+
+
+https://www.youtube.com/watch?v=jcgaNrC4ElU&t=43s
